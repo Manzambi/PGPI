@@ -14,9 +14,15 @@ def persona():
     print(codigoPostal)
 persona()
 
+
 nombre = "Ilyas"
 edad= 27
 morada="calle victor hugo"
+
+nombre = "ILYAS ZGAOULA"
+edad= 27
+morada="calle victor hugo 5"
+
 nacionalidad = "Argelino"
 cidad ="granada"
 codigoPostal = 18011
