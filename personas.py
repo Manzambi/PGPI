@@ -13,3 +13,19 @@ def persona():
     print(cidad)
     print(codigoPostal)
 persona()
+
+nombre = "Ilyas"
+edad= 27
+morada="calle victor hugo"
+nacionalidad = "Argelino"
+cidad ="granada"
+codigoPostal = 18011
+
+def alumno():
+    print(nombre)
+    print(edad)
+    print(morada)
+    print(nacionalidad)
+    print(cidad)
+    print(codigoPostal)
+alumno()
